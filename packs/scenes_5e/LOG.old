@@ -1,5 +1,1 @@
-2026/01/19-23:17:33.813 86e8 Log #1117: 0 ops saved to Table #1118 OK
-2026/01/19-23:17:33.814 86e8 Archiving D:\FoundryData\Data\modules\shareddata\packs\scenes_5e/001117.log: OK
-2026/01/19-23:17:33.814 86e8 Table #684: 8 entries OK
-2026/01/19-23:17:33.830 86e8 Archiving D:\FoundryData\Data\modules\shareddata\packs\scenes_5e/MANIFEST-001115: OK
-2026/01/19-23:17:33.840 86e8 **** Repaired leveldb D:\FoundryData\Data\modules\shareddata\packs\scenes_5e; recovered 1 files; 2311 bytes. Some data may have been lost. ****
+2026/01/19-23:17:33.871 86e8 Delete type=3 #1

@@ -1,5 +1,1 @@
-2026/01/19-23:17:34.188 7bc4 Log #1119: 0 ops saved to Table #1120 OK
-2026/01/19-23:17:34.188 7bc4 Archiving D:\FoundryData\Data\modules\shareddata\packs\macros/001119.log: OK
-2026/01/19-23:17:34.189 7bc4 Table #686: 26 entries OK
-2026/01/19-23:17:34.198 7bc4 Archiving D:\FoundryData\Data\modules\shareddata\packs\macros/MANIFEST-001117: OK
-2026/01/19-23:17:34.207 7bc4 **** Repaired leveldb D:\FoundryData\Data\modules\shareddata\packs\macros; recovered 1 files; 8999 bytes. Some data may have been lost. ****
+2026/01/19-23:17:34.234 7bc4 Delete type=3 #1

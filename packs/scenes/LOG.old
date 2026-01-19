@@ -1,5 +1,1 @@
-2026/01/19-23:17:33.703 46d4 Log #1120: 0 ops saved to Table #1121 OK
-2026/01/19-23:17:33.703 46d4 Archiving D:\FoundryData\Data\modules\shareddata\packs\scenes/001120.log: OK
-2026/01/19-23:17:33.705 46d4 Table #687: 2205 entries OK
-2026/01/19-23:17:33.766 46d4 Archiving D:\FoundryData\Data\modules\shareddata\packs\scenes/MANIFEST-001118: OK
-2026/01/19-23:17:33.775 46d4 **** Repaired leveldb D:\FoundryData\Data\modules\shareddata\packs\scenes; recovered 1 files; 250630 bytes. Some data may have been lost. ****
+2026/01/19-23:17:33.797 46d4 Delete type=3 #1

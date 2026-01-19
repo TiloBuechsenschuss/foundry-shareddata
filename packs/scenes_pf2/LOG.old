@@ -1,5 +1,1 @@
-2026/01/19-23:17:33.882 7bc4 Log #1118: 0 ops saved to Table #1119 OK
-2026/01/19-23:17:33.883 7bc4 Archiving D:\FoundryData\Data\modules\shareddata\packs\scenes_pf2/001118.log: OK
-2026/01/19-23:17:33.884 7bc4 Table #685: 70 entries OK
-2026/01/19-23:17:33.897 7bc4 Archiving D:\FoundryData\Data\modules\shareddata\packs\scenes_pf2/MANIFEST-001116: OK
-2026/01/19-23:17:33.906 7bc4 **** Repaired leveldb D:\FoundryData\Data\modules\shareddata\packs\scenes_pf2; recovered 1 files; 22590 bytes. Some data may have been lost. ****
+2026/01/19-23:17:33.947 7bc4 Delete type=3 #1

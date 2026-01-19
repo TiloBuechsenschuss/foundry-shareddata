@@ -1,5 +1,1 @@
-2026/01/19-23:17:34.111 8450 Log #1116: 0 ops saved to Table #1117 OK
-2026/01/19-23:17:34.112 8450 Archiving D:\FoundryData\Data\modules\shareddata\packs\journalentries_pf2/001116.log: OK
-2026/01/19-23:17:34.112 8450 Table #683: 6 entries OK
-2026/01/19-23:17:34.130 8450 Archiving D:\FoundryData\Data\modules\shareddata\packs\journalentries_pf2/MANIFEST-001114: OK
-2026/01/19-23:17:34.140 8450 **** Repaired leveldb D:\FoundryData\Data\modules\shareddata\packs\journalentries_pf2; recovered 1 files; 4143 bytes. Some data may have been lost. ****
+2026/01/19-23:17:34.182 8450 Delete type=3 #1

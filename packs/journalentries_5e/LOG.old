@@ -1,5 +1,1 @@
-2026/01/19-23:17:34.035 7bc4 Log #1115: 0 ops saved to Table #1116 OK
-2026/01/19-23:17:34.036 7bc4 Archiving D:\FoundryData\Data\modules\shareddata\packs\journalentries_5e/001115.log: OK
-2026/01/19-23:17:34.036 7bc4 Table #682: 5 entries OK
-2026/01/19-23:17:34.064 7bc4 Archiving D:\FoundryData\Data\modules\shareddata\packs\journalentries_5e/MANIFEST-001113: OK
-2026/01/19-23:17:34.084 7bc4 **** Repaired leveldb D:\FoundryData\Data\modules\shareddata\packs\journalentries_5e; recovered 1 files; 4267 bytes. Some data may have been lost. ****
+2026/01/19-23:17:34.105 7bc4 Delete type=3 #1

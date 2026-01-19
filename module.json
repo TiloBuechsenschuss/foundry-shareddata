@@ -236,5 +236,28 @@
             "ASSISTANT": "OWNER"
           }
         }
-      ]
+      ],
+    "packFolders": [
+      {
+        "name": "Tilo's Shared Data",
+        "sorting": "a",
+        "folders": [
+          {
+            "name": "Generic",
+            "sorting": "a",
+            "packs": ["scenes", "journalentries", "macros", "rolltables", "playlists"]
+          },
+          {
+            "name": "D&D 5E",
+            "sorting": "a",
+            "packs": ["items_5e", "actors_5e", "scenes_5e", "journalentries_5e", "macros_5e", "rolltables_5e", "adventures_5e"]
+          },
+          {
+            "name": "Pathfinder 2E",
+            "sorting": "a",
+            "packs": ["items_pf2", "actors_pf2", "scenes_pf2", "journalentries_pf2", "macros_pf2", "rolltables_pf2", "adventures_pf2"]
+          }
+        ]
+      }
+    ]
   }
