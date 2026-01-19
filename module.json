@@ -1,0 +1,161 @@
+{
+    "name": "SharedData",
+    "title": "Shared Data",
+    "description": "Sharing data across worlds",
+    "authors": [
+      {
+        "id": "Tilo",
+        "name": "Tilo",
+        "email": "tilo@buechsenschuss.net",
+        "url": "https://buechsenschuss.net"
+      }
+    ],
+
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "9",
+      "verified": "12",
+      "maximum": "99"
+    },
+    "packs": [
+        {
+          "name": "items_5e",
+          "label": "5E Items",
+          "path": "packs/items_5e.db",
+          "type": "Item",
+          "system": "dnd5e",
+          "module": "SharedData"
+        },
+        {
+          "name": "items_pf2",
+          "label": "PF2 Items",
+          "path": "packs/items_pf2.db",
+          "type": "Item",
+          "system": "pf2e",
+          "module": "SharedData"
+        },
+        {
+          "name": "actors_5e",
+          "label": "5E Actors",
+          "path": "packs/actors_5e.db",
+          "type": "Actor",
+          "system": "dnd5e",
+          "module": "SharedData"
+        },
+        {
+          "name": "actors_pf2",
+          "label": "PF2 Actors",
+          "path": "packs/actors_pf2.db",
+          "type": "Actor",
+          "system": "pf2e",
+          "module": "SharedData"
+        },
+        {
+          "name": "scenes",
+          "label": "Generic Scenes",
+          "path": "packs/scenes.db",
+          "type": "Scene",
+          "module": "SharedData"
+        },
+        {
+          "name": "scenes_5e",
+          "label": "5E Scenes",
+          "path": "packs/scenes_5e.db",
+          "type": "Scene",
+          "module": "SharedData"
+        },
+        {
+          "name": "scenes_pf2",
+          "label": "PF2 Scenes",
+          "path": "packs/scenes_pf2.db",
+          "type": "Scene",
+          "module": "SharedData"
+        },
+        {
+          "name": "journalentries",
+          "label": "Generic Journal Entries",
+          "path": "packs/journalentries.db",
+          "type": "JournalEntry",
+          "module": "SharedData"
+        },
+        {
+          "name": "journalentries_5e",
+          "label": "5E Journal Entries",
+          "path": "packs/journalentries_5e.db",
+          "type": "JournalEntry",
+          "module": "SharedData"
+        },
+        {
+          "name": "journalentries_pf2",
+          "label": "PF2 Journal Entries",
+          "path": "packs/journalentries_pf2.db",
+          "type": "JournalEntry",
+          "module": "SharedData"
+        },
+        {
+          "name": "macros",
+          "label": "Generic Macros",
+          "path": "packs/macros.db",
+          "type": "Macro",
+          "module": "SharedData"
+        },
+        {
+          "name": "macros_5e",
+          "label": "5E Macros",
+          "path": "packs/macros_5e.db",
+          "type": "Macro",
+          "module": "SharedData"
+        },
+        {
+          "name": "macros_pf2",
+          "label": "PF2 Macros",
+          "path": "packs/macros_pf2.db",
+          "type": "Macro",
+          "module": "SharedData"
+        },
+        {
+          "name": "rolltables",
+          "label": "Generic Roll Tables",
+          "path": "packs/rolltables.db",
+          "type": "RollTable",
+          "module": "SharedData"
+        },
+        {
+          "name": "rolltables_5e",
+          "label": "5E Roll Tables",
+          "path": "packs/rolltables_5e.db",
+          "type": "RollTable",
+          "module": "SharedData"
+        },
+        {
+          "name": "rolltables_pf2",
+          "label": "PF2 Roll Tables",
+          "path": "packs/rolltables_pf2.db",
+          "type": "RollTable",
+          "module": "SharedData"
+        },
+        {
+          "name": "playlists",
+          "label": "Generic Playlists",
+          "path": "packs/playlists.db",
+          "type": "Playlist",
+          "module": "SharedData"
+        },
+        {
+          "name": "adventures_5e",
+          "label": "5E Adventures",
+          "path": "packs/adventures_5e.db",
+          "type": "Adventure",
+          "system": "dnd5e",
+          "module": "SharedData"
+        },
+        {
+          "name": "adventures_pf2",
+          "label": "PF2 Adventures",
+          "path": "packs/adventures_pf2.db",
+          "type": "Adventure",
+          "system": "pf2e",
+          "module": "SharedData"
+        }
+      ]
+  }
