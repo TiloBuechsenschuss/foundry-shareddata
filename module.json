@@ -27,7 +27,11 @@
           "label": "5E Items",
           "path": "packs/items_5e",
           "type": "Item",
-          "system": "dnd5e"
+          "system": "dnd5e",
+          "ownership": {
+            "PLAYER": "NONE",
+            "ASSISTANT": "OWNER"
+          }
         },
         {
           "name": "items_pf2",
@@ -35,7 +39,11 @@
           "label": "PF2 Items",
           "path": "packs/items_pf2",
           "type": "Item",
-          "system": "pf2e"
+          "system": "pf2e",
+          "ownership": {
+            "PLAYER": "NONE",
+            "ASSISTANT": "OWNER"
+          }
         },
         {
           "name": "actors_5e",
@@ -43,7 +51,11 @@
           "label": "5E Actors",
           "path": "packs/actors_5e",
           "type": "Actor",
-          "system": "dnd5e"
+          "system": "dnd5e",
+          "ownership": {
+            "PLAYER": "NONE",
+            "ASSISTANT": "OWNER"
+          }
         },
         {
           "name": "actors_pf2",
@@ -51,98 +63,154 @@
           "label": "PF2 Actors",
           "path": "packs/actors_pf2",
           "type": "Actor",
-          "system": "pf2e"
+          "system": "pf2e",
+          "ownership": {
+            "PLAYER": "NONE",
+            "ASSISTANT": "OWNER"
+          }
         },
         {
           "name": "scenes",
           "id": "scenes",
           "label": "Generic Scenes",
           "path": "packs/scenes",
-          "type": "Scene"
+          "type": "Scene",
+          "ownership": {
+            "PLAYER": "NONE",
+            "ASSISTANT": "OWNER"
+          }
         },
         {
           "name": "scenes_5e",
           "id": "scenes_5e",
           "label": "5E Scenes",
           "path": "packs/scenes_5e",
-          "type": "Scene"
+          "type": "Scene",
+          "ownership": {
+            "PLAYER": "NONE",
+            "ASSISTANT": "OWNER"
+          }
         },
         {
           "name": "scenes_pf2",
           "id": "scenes_pf2",
           "label": "PF2 Scenes",
           "path": "packs/scenes_pf2",
-          "type": "Scene"
+          "type": "Scene",
+          "ownership": {
+            "PLAYER": "NONE",
+            "ASSISTANT": "OWNER"
+          }
         },
         {
           "name": "journalentries",
           "id": "journalentries",
           "label": "Generic Journal Entries",
           "path": "packs/journalentries",
-          "type": "JournalEntry"
+          "type": "JournalEntry",
+          "ownership": {
+            "PLAYER": "NONE",
+            "ASSISTANT": "OWNER"
+          }
         },
         {
           "name": "journalentries_5e",
           "id": "journalentries_5e",
           "label": "5E Journal Entries",
           "path": "packs/journalentries_5e",
-          "type": "JournalEntry"
+          "type": "JournalEntry",
+          "ownership": {
+            "PLAYER": "NONE",
+            "ASSISTANT": "OWNER"
+          }
         },
         {
           "name": "journalentries_pf2",
           "id": "journalentries_pf2",
           "label": "PF2 Journal Entries",
           "path": "packs/journalentries_pf2",
-          "type": "JournalEntry"
+          "type": "JournalEntry",
+          "ownership": {
+            "PLAYER": "NONE",
+            "ASSISTANT": "OWNER"
+          }
         },
         {
           "name": "macros",
           "id": "macros",
           "label": "Generic Macros",
           "path": "packs/macros",
-          "type": "Macro"
+          "type": "Macro",
+          "ownership": {
+            "PLAYER": "NONE",
+            "ASSISTANT": "OWNER"
+          }
         },
         {
           "name": "macros_5e",
           "id": "macros_5e",
           "label": "5E Macros",
           "path": "packs/macros_5e",
-          "type": "Macro"
+          "type": "Macro",
+          "ownership": {
+            "PLAYER": "NONE",
+            "ASSISTANT": "OWNER"
+          }
         },
         {
           "name": "macros_pf2",
           "id": "macros_pf2",
           "label": "PF2 Macros",
           "path": "packs/macros_pf2",
-          "type": "Macro"
+          "type": "Macro",
+          "ownership": {
+            "PLAYER": "NONE",
+            "ASSISTANT": "OWNER"
+          }
         },
         {
           "name": "rolltables",
           "id": "rolltables",
           "label": "Generic Roll Tables",
           "path": "packs/rolltables",
-          "type": "RollTable"
+          "type": "RollTable",
+          "ownership": {
+            "PLAYER": "NONE",
+            "ASSISTANT": "OWNER"
+          }
         },
         {
           "name": "rolltables_5e",
           "id": "rolltables_5e",
           "label": "5E Roll Tables",
           "path": "packs/rolltables_5e",
-          "type": "RollTable"
+          "type": "RollTable",
+          "ownership": {
+            "PLAYER": "NONE",
+            "ASSISTANT": "OWNER"
+          }
         },
         {
           "name": "rolltables_pf2",
           "id": "rolltables_pf2",
           "label": "PF2 Roll Tables",
           "path": "packs/rolltables_pf2",
-          "type": "RollTable"
+          "type": "RollTable",
+          "ownership": {
+            "PLAYER": "NONE",
+            "ASSISTANT": "OWNER"
+          }
         },
         {
           "name": "playlists",
           "id": "playlists",
           "label": "Generic Playlists",
           "path": "packs/playlists",
-          "type": "Playlist"
+          "type": "Playlist",
+          "ownership": {
+            "PLAYER": "NONE",
+            "ASSISTANT": "OWNER"
+          }
         },
         {
           "name": "adventures_5e",
@@ -150,7 +218,11 @@
           "label": "5E Adventures",
           "path": "packs/adventures_5e",
           "type": "Adventure",
-          "system": "dnd5e"
+          "system": "dnd5e",
+          "ownership": {
+            "PLAYER": "NONE",
+            "ASSISTANT": "OWNER"
+          }
         },
         {
           "name": "adventures_pf2",
@@ -158,7 +230,11 @@
           "label": "PF2 Adventures",
           "path": "packs/adventures_pf2",
           "type": "Adventure",
-          "system": "pf2e"
+          "system": "pf2e",
+          "ownership": {
+            "PLAYER": "NONE",
+            "ASSISTANT": "OWNER"
+          }
         }
       ]
   }
