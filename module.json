@@ -28,7 +28,7 @@
           "path": "packs/items_5e.db",
           "type": "Item",
           "system": "dnd5e",
-          "module": "SharedData"
+          "module": "shareddata"
         },
         {
           "name": "items_pf2",
@@ -36,7 +36,7 @@
           "path": "packs/items_pf2.db",
           "type": "Item",
           "system": "pf2e",
-          "module": "SharedData"
+          "module": "shareddata"
         },
         {
           "name": "actors_5e",
@@ -44,7 +44,7 @@
           "path": "packs/actors_5e.db",
           "type": "Actor",
           "system": "dnd5e",
-          "module": "SharedData"
+          "module": "shareddata"
         },
         {
           "name": "actors_pf2",
@@ -52,98 +52,98 @@
           "path": "packs/actors_pf2.db",
           "type": "Actor",
           "system": "pf2e",
-          "module": "SharedData"
+          "module": "shareddata"
         },
         {
           "name": "scenes",
           "label": "Generic Scenes",
           "path": "packs/scenes.db",
           "type": "Scene",
-          "module": "SharedData"
+          "module": "shareddata"
         },
         {
           "name": "scenes_5e",
           "label": "5E Scenes",
           "path": "packs/scenes_5e.db",
           "type": "Scene",
-          "module": "SharedData"
+          "module": "shareddata"
         },
         {
           "name": "scenes_pf2",
           "label": "PF2 Scenes",
           "path": "packs/scenes_pf2.db",
           "type": "Scene",
-          "module": "SharedData"
+          "module": "shareddata"
         },
         {
           "name": "journalentries",
           "label": "Generic Journal Entries",
           "path": "packs/journalentries.db",
           "type": "JournalEntry",
-          "module": "SharedData"
+          "module": "shareddata"
         },
         {
           "name": "journalentries_5e",
           "label": "5E Journal Entries",
           "path": "packs/journalentries_5e.db",
           "type": "JournalEntry",
-          "module": "SharedData"
+          "module": "shareddata"
         },
         {
           "name": "journalentries_pf2",
           "label": "PF2 Journal Entries",
           "path": "packs/journalentries_pf2.db",
           "type": "JournalEntry",
-          "module": "SharedData"
+          "module": "shareddata"
         },
         {
           "name": "macros",
           "label": "Generic Macros",
           "path": "packs/macros.db",
           "type": "Macro",
-          "module": "SharedData"
+          "module": "shareddata"
         },
         {
           "name": "macros_5e",
           "label": "5E Macros",
           "path": "packs/macros_5e.db",
           "type": "Macro",
-          "module": "SharedData"
+          "module": "shareddata"
         },
         {
           "name": "macros_pf2",
           "label": "PF2 Macros",
           "path": "packs/macros_pf2.db",
           "type": "Macro",
-          "module": "SharedData"
+          "module": "shareddata"
         },
         {
           "name": "rolltables",
           "label": "Generic Roll Tables",
           "path": "packs/rolltables.db",
           "type": "RollTable",
-          "module": "SharedData"
+          "module": "shareddata"
         },
         {
           "name": "rolltables_5e",
           "label": "5E Roll Tables",
           "path": "packs/rolltables_5e.db",
           "type": "RollTable",
-          "module": "SharedData"
+          "module": "shareddata"
         },
         {
           "name": "rolltables_pf2",
           "label": "PF2 Roll Tables",
           "path": "packs/rolltables_pf2.db",
           "type": "RollTable",
-          "module": "SharedData"
+          "module": "shareddata"
         },
         {
           "name": "playlists",
           "label": "Generic Playlists",
           "path": "packs/playlists.db",
           "type": "Playlist",
-          "module": "SharedData"
+          "module": "shareddata"
         },
         {
           "name": "adventures_5e",
@@ -151,7 +151,7 @@
           "path": "packs/adventures_5e.db",
           "type": "Adventure",
           "system": "dnd5e",
-          "module": "SharedData"
+          "module": "shareddata"
         },
         {
           "name": "adventures_pf2",
@@ -159,7 +159,7 @@
           "path": "packs/adventures_pf2.db",
           "type": "Adventure",
           "system": "pf2e",
-          "module": "SharedData"
+          "module": "shareddata"
         }
       ]
   }
