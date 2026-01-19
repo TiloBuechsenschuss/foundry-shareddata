@@ -1,7 +1,4 @@
-2025/06/18-14:20:26.752615 7f4cbf7fe700 Recovering log #1108
-2025/06/18-14:20:26.777848 7f4cbf7fe700 Delete type=0 #1108
-2025/06/18-14:20:26.777902 7f4cbf7fe700 Delete type=3 #1106
-2025/06/18-14:22:11.215342 7f4791b6d700 Level-0 table #1113: started
-2025/06/18-14:22:11.215375 7f4791b6d700 Level-0 table #1113: 0 bytes OK
-2025/06/18-14:22:11.224735 7f4791b6d700 Delete type=0 #1111
-2025/06/18-14:22:11.234684 7f4791b6d700 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2026/01/19-23:17:34.642 86e8 Log #1116: 0 ops saved to Table #1117 OK
+2026/01/19-23:17:34.643 86e8 Archiving D:\FoundryData\Data\modules\shareddata\packs\playlists/001116.log: OK
+2026/01/19-23:17:34.674 86e8 Archiving D:\FoundryData\Data\modules\shareddata\packs\playlists/MANIFEST-001114: OK
+2026/01/19-23:17:34.691 86e8 **** Repaired leveldb D:\FoundryData\Data\modules\shareddata\packs\playlists; recovered 0 files; 0 bytes. Some data may have been lost. ****

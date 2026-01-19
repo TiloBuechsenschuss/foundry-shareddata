@@ -1,8 +1,5 @@
-2025/06/18-14:20:26.568726 7f4cbe7fc700 Recovering log #1109
-2025/06/18-14:20:26.596008 7f4cbe7fc700 Delete type=0 #1109
-2025/06/18-14:20:26.596144 7f4cbe7fc700 Delete type=3 #1107
-2025/06/18-14:22:11.185875 7f4791b6d700 Level-0 table #1114: started
-2025/06/18-14:22:11.185932 7f4791b6d700 Level-0 table #1114: 0 bytes OK
-2025/06/18-14:22:11.195466 7f4791b6d700 Delete type=0 #1112
-2025/06/18-14:22:11.195723 7f4791b6d700 Manual compaction at level-0 from '!tables!CiaI27HX98ZphaUB' @ 72057594037927935 : 1 .. '!tables.results!bK1rx5va5dpVuOyb.ucSLKDlTvpiq2knX' @ 0 : 0; will stop at (end)
-2025/06/18-14:22:11.195977 7f4791b6d700 Manual compaction at level-1 from '!tables!CiaI27HX98ZphaUB' @ 72057594037927935 : 1 .. '!tables.results!bK1rx5va5dpVuOyb.ucSLKDlTvpiq2knX' @ 0 : 0; will stop at (end)
+2026/01/19-23:17:34.369 86e8 Log #1117: 0 ops saved to Table #1118 OK
+2026/01/19-23:17:34.370 86e8 Archiving D:\FoundryData\Data\modules\shareddata\packs\rolltables/001117.log: OK
+2026/01/19-23:17:34.370 86e8 Table #684: 24 entries OK
+2026/01/19-23:17:34.389 86e8 Archiving D:\FoundryData\Data\modules\shareddata\packs\rolltables/MANIFEST-001115: OK
+2026/01/19-23:17:34.412 86e8 **** Repaired leveldb D:\FoundryData\Data\modules\shareddata\packs\rolltables; recovered 1 files; 2537 bytes. Some data may have been lost. ****

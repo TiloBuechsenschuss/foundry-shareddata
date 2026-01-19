@@ -1,8 +1,5 @@
-2025/06/18-14:20:26.421692 7f4cbe7fc700 Recovering log #1108
-2025/06/18-14:20:26.446219 7f4cbe7fc700 Delete type=0 #1108
-2025/06/18-14:20:26.446334 7f4cbe7fc700 Delete type=3 #1106
-2025/06/18-14:22:11.135989 7f4791b6d700 Level-0 table #1113: started
-2025/06/18-14:22:11.136024 7f4791b6d700 Level-0 table #1113: 0 bytes OK
-2025/06/18-14:22:11.144420 7f4791b6d700 Delete type=0 #1111
-2025/06/18-14:22:11.154094 7f4791b6d700 Manual compaction at level-0 from '!folders!PNUrHPlYbboTKFVd' @ 72057594037927935 : 1 .. '!journal.pages!XWyn0ucd3cCCd5UI.t4UxGOxyGyJt9yTf' @ 0 : 0; will stop at (end)
-2025/06/18-14:22:11.154142 7f4791b6d700 Manual compaction at level-1 from '!folders!PNUrHPlYbboTKFVd' @ 72057594037927935 : 1 .. '!journal.pages!XWyn0ucd3cCCd5UI.t4UxGOxyGyJt9yTf' @ 0 : 0; will stop at (end)
+2026/01/19-23:17:34.111 8450 Log #1116: 0 ops saved to Table #1117 OK
+2026/01/19-23:17:34.112 8450 Archiving D:\FoundryData\Data\modules\shareddata\packs\journalentries_pf2/001116.log: OK
+2026/01/19-23:17:34.112 8450 Table #683: 6 entries OK
+2026/01/19-23:17:34.130 8450 Archiving D:\FoundryData\Data\modules\shareddata\packs\journalentries_pf2/MANIFEST-001114: OK
+2026/01/19-23:17:34.140 8450 **** Repaired leveldb D:\FoundryData\Data\modules\shareddata\packs\journalentries_pf2; recovered 1 files; 4143 bytes. Some data may have been lost. ****

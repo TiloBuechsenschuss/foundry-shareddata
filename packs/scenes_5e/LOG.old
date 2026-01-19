@@ -1,8 +1,5 @@
-2025/06/18-14:20:26.270465 7f4cbdffb700 Recovering log #1109
-2025/06/18-14:20:26.294650 7f4cbdffb700 Delete type=0 #1109
-2025/06/18-14:20:26.294746 7f4cbdffb700 Delete type=3 #1107
-2025/06/18-14:22:11.105987 7f4791b6d700 Level-0 table #1114: started
-2025/06/18-14:22:11.106069 7f4791b6d700 Level-0 table #1114: 0 bytes OK
-2025/06/18-14:22:11.114959 7f4791b6d700 Delete type=0 #1112
-2025/06/18-14:22:11.115331 7f4791b6d700 Manual compaction at level-0 from '!scenes!XLPfnCwaV3tPatGx' @ 72057594037927935 : 1 .. '!scenes.walls!XLPfnCwaV3tPatGx.YTk2N2I3ZDJhZGYx' @ 0 : 0; will stop at (end)
-2025/06/18-14:22:11.115967 7f4791b6d700 Manual compaction at level-1 from '!scenes!XLPfnCwaV3tPatGx' @ 72057594037927935 : 1 .. '!scenes.walls!XLPfnCwaV3tPatGx.YTk2N2I3ZDJhZGYx' @ 0 : 0; will stop at (end)
+2026/01/19-23:17:33.813 86e8 Log #1117: 0 ops saved to Table #1118 OK
+2026/01/19-23:17:33.814 86e8 Archiving D:\FoundryData\Data\modules\shareddata\packs\scenes_5e/001117.log: OK
+2026/01/19-23:17:33.814 86e8 Table #684: 8 entries OK
+2026/01/19-23:17:33.830 86e8 Archiving D:\FoundryData\Data\modules\shareddata\packs\scenes_5e/MANIFEST-001115: OK
+2026/01/19-23:17:33.840 86e8 **** Repaired leveldb D:\FoundryData\Data\modules\shareddata\packs\scenes_5e; recovered 1 files; 2311 bytes. Some data may have been lost. ****

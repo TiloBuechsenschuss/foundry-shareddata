@@ -1,8 +1,5 @@
-2025/06/18-14:20:26.519559 7f4cbf7fe700 Recovering log #1108
-2025/06/18-14:20:26.556874 7f4cbf7fe700 Delete type=0 #1108
-2025/06/18-14:20:26.556979 7f4cbf7fe700 Delete type=3 #1106
-2025/06/18-14:22:11.175153 7f4791b6d700 Level-0 table #1113: started
-2025/06/18-14:22:11.175220 7f4791b6d700 Level-0 table #1113: 0 bytes OK
-2025/06/18-14:22:11.185767 7f4791b6d700 Delete type=0 #1111
-2025/06/18-14:22:11.195696 7f4791b6d700 Manual compaction at level-0 from '!macros!7cek9BrT1v4wEsru' @ 72057594037927935 : 1 .. '!macros!oQhkVLND05VHG32Z' @ 0 : 0; will stop at (end)
-2025/06/18-14:22:11.195773 7f4791b6d700 Manual compaction at level-1 from '!macros!7cek9BrT1v4wEsru' @ 72057594037927935 : 1 .. '!macros!oQhkVLND05VHG32Z' @ 0 : 0; will stop at (end)
+2026/01/19-23:17:34.305 86e8 Log #1116: 0 ops saved to Table #1117 OK
+2026/01/19-23:17:34.306 86e8 Archiving D:\FoundryData\Data\modules\shareddata\packs\macros_pf2/001116.log: OK
+2026/01/19-23:17:34.306 86e8 Table #683: 6 entries OK
+2026/01/19-23:17:34.322 86e8 Archiving D:\FoundryData\Data\modules\shareddata\packs\macros_pf2/MANIFEST-001114: OK
+2026/01/19-23:17:34.334 86e8 **** Repaired leveldb D:\FoundryData\Data\modules\shareddata\packs\macros_pf2; recovered 1 files; 7561 bytes. Some data may have been lost. ****
